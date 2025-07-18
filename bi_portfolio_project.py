@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1hfTRUApGqb6Kmflr-6CrFrwNF4bb-TGZ
 """
 
-!pip install plaid-python streamlit scikit-learn pandas matplotlib seaborn
 
 import os
 import pandas as pd
