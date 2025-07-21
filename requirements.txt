@@ -7,3 +7,4 @@ seaborn
 scikit-learn
 plaid-python
 python-dateutil
+plotly
